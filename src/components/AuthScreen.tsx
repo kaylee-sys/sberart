@@ -53,7 +53,7 @@ export function AuthScreen({ onAuth }: Props) {
             <span className="sber-gradient-text">Sber</span> Art Lab
           </h1>
           <p className="mt-1 text-sm text-[var(--sber-text-muted)]">
-            Сообщество AI-художников Сбера
+            Создавай искусство вместе с искусственным интеллектом
           </p>
         </div>
       </div>
