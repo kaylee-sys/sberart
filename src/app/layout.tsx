@@ -5,9 +5,9 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Sber Art Lab — сообщество AI-художников",
+  title: "Sber Art Lab",
   description:
-    "Sber Art Lab — социальная сеть для AI-художников Сбера. Публикуйте арт, делитесь промтами, подписывайтесь и общайтесь.",
+    "Sber Art Lab — социальная сеть. Публикуйте арты, делитесь промтами, подписывайтесь и общайтесь.",
   applicationName: "Sber Art Lab",
   appleWebApp: {
     capable: true,
