@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "http://213.226.124.51/$1",
+      "permanent": false
+    }
+  ]
+}
